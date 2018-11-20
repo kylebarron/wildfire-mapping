@@ -21,6 +21,7 @@ dependencies:
     - python-snappy>=0.5.2
     - python>=3.6
     - rasterio
+    - requests
     - rtree
     - scipy
     - seaborn>=0.8.1
